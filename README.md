@@ -9,6 +9,16 @@
   <br/>
   <br/>
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Kuvaev-dev&no-frame=true&no-bg=true&theme=radical"/>
+  <br/>
+  <br/>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,cpp,cs,html,css,js,php,dart,java,ts" />
+      <img src="https://skillicons.dev/icons?i=angular,azure,bootstrap,dotnet,express,firebase,flutter,heroku,laravel,nodejs,react,redux" />
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,mssql" />
+      <img src="https://skillicons.dev/icons?i=visualstudio,vscode,powershell,androidstudio" />
+    </a>
+  </p>
 </div>
 
 
