@@ -8,6 +8,7 @@
   <h1>My activity on GitHub</h1>
   <h4>Below is the activity statistics of my profile.</h4>
   <h2>Personal project development activity</h2>
+  <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kuvaev-dev&show_icons=true&include_all_commits=true&theme=radical"/>
   <br/>
   <h2>Current streak activity</h2>
