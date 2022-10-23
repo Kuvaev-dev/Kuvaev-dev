@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>:wave: Hello there.</h1>
+  <h1>:wave: Hello there</h1>
   <p>My name is Kuvaev Nikita and I love programming.</p>
   </br>
   <h1>About me</h1>
