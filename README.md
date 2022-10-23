@@ -25,6 +25,7 @@
   <br/>
   <h1>What can I do?</h1>
   <h3>Below are the technologies that I own to one degree or another.</h3>
+  <br/>
   <p align="center">
     <a href="https://skillicons.dev">
       <h2>Programming languages</h2>
