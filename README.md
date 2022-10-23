@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Hello there.</h1>
   <h4>My name is Kuvaev Nikita and I love programming.</h4>
+  </br>
   <h1>About me</h1>
   <h4>At the moment I am 20 years old. I live in the city of Kamianske, Dnepropetrovsk region, Ukraine. I started to actively engage in programming in 2019.</h4>
   <h1>My activity on GitHub</h1>
