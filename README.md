@@ -11,7 +11,6 @@
   <h3>Personal project development activity</h3>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kuvaev-dev&show_icons=true&include_all_commits=true&theme=radical"/>
   <br/>
-  </br>
   <h3>Current streak activity</h3>
   <img align="center" src="https://streak-stats.demolab.com/?user=Kuvaev-dev&theme=radical"/>
   <br/>
