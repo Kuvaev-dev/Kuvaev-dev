@@ -28,9 +28,9 @@
       <h2>Programming languages</h2>
       <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js,php,dart,java,ts" />
       <h2>Frameworks</h2>
-      <img src="https://skillicons.dev/icons?i=angular,azure,bootstrap,dotnet,express,firebase,flutter,heroku,laravel,nodejs,react,redux" />
+      <img src="https://skillicons.dev/icons?i=angular,azure,bootstrap,dotnet,express,flutter,heroku,laravel,nodejs,react,redux" />
       <h2>Databases</h2>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,mssql" />
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
       <h2>Development environments</h2>
       <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,powershell,androidstudio" />
     </a>
