@@ -30,6 +30,7 @@
   <br/>
   <p align="center">
     <a href="https://skillicons.dev">
+      <br/>
       <h2>Programming languages</h2>
       <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js,php,dart,java,ts" />
       <h2>Frameworks</h2>
