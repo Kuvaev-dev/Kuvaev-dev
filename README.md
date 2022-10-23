@@ -45,18 +45,18 @@
   </br>
   <h1>My contacts</h1>
   <p>If you have any questions or suggestions, below is my contact information.</p>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    <a href="likeaboss13371@gmail.com"></a>
-  </img>
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-    <a href="https://t.me/Kuvaev_N"></a>
-  </img>
-  <img src="https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white">
-    <a href="viber://add?number=+380961149776"></a>
-  </img>
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-    <a href="https://twitter.com/_Nick_Smirnov_"></a>
-  </img>
+  <a href="likeaboss13371@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://t.me/Kuvaev_N">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="viber://add?number=+380961149776">
+    <img src="https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/_Nick_Smirnov_"></a>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
   </br>
   </br>
   <h3>Thanks for reading. Now check out my personal projects. I wish you good luck and a peaceful sky above your head.</h3>
