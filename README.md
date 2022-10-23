@@ -43,7 +43,7 @@
   <h1>What do I want to achieve?</h1>
   <p>My dream is to become a Senior C# Developer.</p>
   </br>
-  <h2>Thanks for reading. Now check out my personal projects. I wish you good luck and a peaceful sky above your head.</h2>
+  <h3>Thanks for reading. Now check out my personal projects. I wish you good luck and a peaceful sky above your head.</h3>
 </div>
 
 
