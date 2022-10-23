@@ -4,4 +4,4 @@
 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Kuvaev-dev&no-frame=true&no-bg=true&theme=radical"/>
 
-<img align="center" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=Kuvaev-dev)](https://git.io/streak-stats)"/>
+<img align="center" src="https://streak-stats.demolab.com/?user=Kuvaev-dev"/>
