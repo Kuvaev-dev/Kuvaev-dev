@@ -51,10 +51,7 @@
   <a href="https://t.me/Kuvaev_N">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="viber://add?number=380961149776">
-    <img src="https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/_Nick_Smirnov_"></a>
+  <a href="https://twitter.com/_Nick_Smirnov_">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   </br>
