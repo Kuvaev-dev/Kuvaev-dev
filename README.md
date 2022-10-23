@@ -44,6 +44,8 @@
   <p>My dream is to become a Senior C# Developer.</p>
   </br>
   <h3>Thanks for reading. Now check out my personal projects. I wish you good luck and a peaceful sky above your head.</h3>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </div>
 
 
