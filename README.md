@@ -4,6 +4,7 @@
   </br>
   <h1>About me</h1>
   <h4>At the moment I am 20 years old. I live in the city of Kamianske, Dnepropetrovsk region, Ukraine. I started to actively engage in programming in 2019.</h4>
+  </br>
   <h1>My activity on GitHub</h1>
   <h4>Below is the activity statistics of my profile.</h4>
   <h2>Personal project development activity</h2>
@@ -36,10 +37,13 @@
       <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,powershell,androidstudio" />
     </a>
   </p>
+  </br>
   <h2>Why am I here?</h2>
   <h4>Study, study and study again.</h4>
+  </br>
   <h2>What do I want to achieve?</h2>
   <h4>My dream is to become a Senior C# Developer.</h4>
+  </br>
   <h2>Thanks for reading. Now check out my personal projects. I wish you good luck and a peaceful sky above your head.</h2>
 </div>
 
