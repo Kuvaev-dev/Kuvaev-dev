@@ -45,14 +45,14 @@
   </br>
   <h1>My contacts</h1>
   <p>If you have any questions or suggestions, below is my contact information.</p>
+  <a href="https://twitter.com/_Nick_Smirnov_">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
   <a href="likeaboss13371@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://t.me/Kuvaev_N">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/_Nick_Smirnov_">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   </br>
   </br>
