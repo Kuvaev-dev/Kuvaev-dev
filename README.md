@@ -9,19 +9,16 @@
   <p>Below is the activity statistics of my profile.</p>
   </br>
   <h3>Personal project development activity</h3>
-  <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kuvaev-dev&show_icons=true&include_all_commits=true&theme=radical"/>
   <br/>
+  </br>
   <h3>Current streak activity</h3>
-  <br/>
   <img align="center" src="https://streak-stats.demolab.com/?user=Kuvaev-dev&theme=radical"/>
   <br/>
   <h3>Most used languages</h3>
-  <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuvaev-dev&layout=compact&theme=radical"/>
   <br/>
   <h3>GitHub trophies</h3>
-  <br/>
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Kuvaev-dev&no-frame=true&no-bg=true&theme=radical"/>
   <br/>
   <br/>
