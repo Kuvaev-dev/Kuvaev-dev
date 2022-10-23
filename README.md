@@ -25,7 +25,7 @@
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Kuvaev-dev&no-frame=true&no-bg=true&theme=radical"/>
   <br/>
   <br/>
-  <h1>What can I do?</h1>
+  <h1>Skills & technologies</h1>
   <p>Below are the technologies that I own to one degree or another.</p>
   <p align="center">
     <a href="https://skillicons.dev">
