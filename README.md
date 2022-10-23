@@ -1,6 +1,7 @@
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kuvaev-dev&show_icons=true&include_all_commits=true&theme=radical"/>
   <br/>
+  <br/>
   <img align="center" src="https://streak-stats.demolab.com/?user=Kuvaev-dev&theme=radical"/>
   <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuvaev-dev&layout=compact&theme=radical"/>
