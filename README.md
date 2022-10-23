@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>Hello there.</h1>
+  <h1>:wave: Hello there.</h1>
   <p>My name is Kuvaev Nikita and I love programming.</p>
   </br>
   <h1>About me</h1>
-  <p>At the moment I am 20 years old. I live in the city of Kamianske, Dnepropetrovsk region, Ukraine. I started to actively engage in programming in 2019.</p>
+  <p>At the moment I am 20 years old. I live in the city of Kamianske, Dnepropetrovsk region, Ukraine. I started to actively engage in programming in 2019. I'm in my first year of university</p>
   </br>
   <h1>My activity on GitHub</h1>
   <p>Below is the activity statistics of my profile.</p>
@@ -30,21 +30,21 @@
   <p align="center">
     <a href="https://skillicons.dev">
       <br/>
-      <h2>Programming languages</h2>
+      <h3>Programming languages</h3>
       <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,js,php,dart,java,ts" />
-      <h2>Frameworks</h2>
+      <h3>Frameworks</h3>
       <img src="https://skillicons.dev/icons?i=angular,azure,bootstrap,dotnet,express,flutter,heroku,laravel,nodejs,react,redux" />
-      <h2>Databases</h2>
+      <h3>Databases</h3>
       <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-      <h2>Development environments</h2>
+      <h3>Development environments</h3>
       <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,powershell,androidstudio" />
     </a>
   </p>
   </br>
-  <h2>Why am I here?</h2>
+  <h1>Why am I here?</h1>
   <p>Study, study and study again.</p>
   </br>
-  <h2>What do I want to achieve?</h2>
+  <h1>What do I want to achieve?</h1>
   <p>My dream is to become a Senior C# Developer.</p>
   </br>
   <h2>Thanks for reading. Now check out my personal projects. I wish you good luck and a peaceful sky above your head.</h2>
