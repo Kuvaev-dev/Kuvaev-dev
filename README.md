@@ -31,7 +31,7 @@
       <h3>Frameworks</h3>
       <img src="https://skillicons.dev/icons?i=angular,azure,bootstrap,dotnet,express,flutter,heroku,laravel,nodejs,react,redux,sass,jquery" />
       <h3>Databases</h3>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,sqlite" />
       <h3>Development environments</h3>
       <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,powershell,androidstudio" />
     </a>
