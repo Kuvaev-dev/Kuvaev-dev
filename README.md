@@ -44,7 +44,7 @@
   <p>My dream is to become a Senior C# Developer.</p>
   </br>
   <h1>My contacts</h1>
-  <p>If you have any questions or suggestions, below is my contact information.</p>
+  <p>If you have any questions or suggestions, below is my contact information. Click on any badge to view.</p>
   <a href="https://twitter.com/_Nick_Smirnov_">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
