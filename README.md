@@ -54,7 +54,7 @@
   <a href="https://t.me/Kuvaev_N">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="discordapp.com/users/504678253991034893">
+  <a href="https://discordapp.com/users/504678253991034893">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100022388731547">
