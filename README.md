@@ -63,6 +63,9 @@
   <a href="https://www.instagram.com/___storm____/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  <a href="https://www.linkedin.com/in/mykyta-kuvaiev-088a5527a">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)"/>
+  </a>
   </br>
   </br>
   <h3>Thanks for reading. Now check out my personal projects. I wish you good luck and a peaceful sky above your head.</h3>
