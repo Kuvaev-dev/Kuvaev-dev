@@ -41,7 +41,7 @@
   <p>Study, study and study again.</p>
   </br>
   <h1>What do I want to achieve?</h1>
-  <p>My dream is to become a Senior C# Developer.</p>
+  <p>My dream is to become a FullStack C# Developer.</p>
   </br>
   <h1>My contacts</h1>
   <p>If you have any questions or suggestions, below is my contact information. Click on any badge to view.</p>
