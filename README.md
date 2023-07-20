@@ -34,6 +34,7 @@
       <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,sqlite" />
       <h3>Development environments</h3>
       <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,powershell,androidstudio" />
+      <h3>English Level (CEFR): Advanced (C1)</h3>
     </a>
   </p>
   </br>
