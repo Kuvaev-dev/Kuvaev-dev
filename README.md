@@ -22,7 +22,7 @@
   <br/>
   <br/>
   <h1>Skills & technologies</h1>
-  <p>Below are the technologies that I own to one degree or another.</p>
+  <p>Below is a list of technologies that I have ever worked with and that I have some knowledge of.</p>
   <p align="center"> 
     <a href="https://skillicons.dev">
       <br/>
