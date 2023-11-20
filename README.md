@@ -33,7 +33,7 @@
       <h3>Databases</h3>
       <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,sqlite" />
       <h3>Development environments</h3>
-      <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,powershell,androidstudio" />
+      <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,powershell,androidstudio,figma" />
       <h3>English Level (CEFR): Upper-Intermediate (B2)</h3>
     </a>
   </p>
