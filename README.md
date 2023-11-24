@@ -3,7 +3,7 @@
   <p>My name is Kuvaiev Mykyta and I love programming.</p>
   </br>
   <h1>About me</h1>
-  <p>At the moment I am 21 years old. I live in the city of Kamianske, Dnepropetrovsk region, Ukraine. I started to actively engage in programming in 2019. I'm in my first year of university.</p>
+  <p>At the moment I am 21 years old. I live in the city of Kamianske, Dnepropetrovsk region, Ukraine. I started to actively engage in programming in 2019. I'm in my second year of university.</p>
   </br>
   <h1>My activity on GitHub</h1>
   <p>Below is the activity statistics of my profile.</p>
