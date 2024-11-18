@@ -27,7 +27,7 @@
     <a href="https://skillicons.dev">
       <br/>
       <h3>Programming languages</h3>
-      <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,php,dart,java,kotlin,ts" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,php,dart,java,kotlin,ts,python" />
       <h3>Frameworks</h3>
       <img src="https://skillicons.dev/icons?i=angular,azure,bootstrap,dotnet,express,flutter,heroku,laravel,nodejs,vuejs,react,redux,sass,jquery" />
       <h3>Databases</h3>
