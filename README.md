@@ -1,6 +1,6 @@
 <div align="center">
   <h1>:wave: Hello there</h1>
-  <p>My name is Kuvaiev Mykyta and I love programming.</p>
+  <p>My name is Kuvaiev Mykyta and I like programming.</p>
   </br>
   <h1>About me</h1>
   <p>At the moment I am 22 years old. I live in the city of Kamianske, Dnepropetrovsk region, Ukraine. I started to actively engage in programming in 2019. I'm in my second year of university.</p>
